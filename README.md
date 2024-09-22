@@ -1,6 +1,13 @@
-#  Landing page estática
+# Landing page estática
 
 Landing page estática apresentando as principais informações da clínica, bem como seus principais serviços.
+
+## Informações do aluno
+
+Discente: David Nora Bennet \
+Docente: Leonardo Reboucas de Carvalho \
+Disciplina: Programação e Desenvolvimento Web \
+Turma: B - 0724 - Virtual - 22/07/24 GV2
 
 ## Como executar
 
